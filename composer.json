@@ -1,5 +1,5 @@
 {
-    "name": "darkghosthunter/preloader",
+    "name": "tomasvotruba/preloader",
     "type": "library",
     "description": "Preloader helper to create a PHP-ready preload script from Opcache.",
     "keywords": [
